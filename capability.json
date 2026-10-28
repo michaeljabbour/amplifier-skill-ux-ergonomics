@@ -178,6 +178,58 @@
     "docs/evaluations/2026-10-28/consolidation.json",
     "docs/OPTIONAL-CRAFT-ADAPTERS.md"
   ],
-  "evidence_summary": "This local candidate preserves the original source and evaluation assets. Packaging and native software checks are recorded separately from comparative usefulness. No outside-user outcome or renamed-method effectiveness claim is established.",
-  "publication_status": "Installation and evidence scopes are documented below."
+  "evidence_summary": "Native bundle structure, references and portable installation are checked. No usability study or accessibility-conformance claim is established by those structural checks; each product needs validation on its actual tasks and surfaces.",
+  "publication_status": "Installation and evidence scopes are documented below.",
+  "marketing": {
+    "headline": "Make the next step easier to understand and do.",
+    "lead": "An evidence-led UX skill for workflows and human-agent interactions. Trace the real task, find where people can lose their way and turn findings into changes you can verify.",
+    "benefits": [
+      {
+        "title": "Find the task behind the screen",
+        "body": "Map decisions, interruptions, errors, recovery and completion instead of beginning with a visual redesign."
+      },
+      {
+        "title": "Make authority understandable",
+        "body": "Show who decides, who acts, what can be stopped and what evidence confirms completion."
+      },
+      {
+        "title": "Give recommendations a fair test",
+        "body": "Separate observation from inference and specify what would pass or fail each consequential change."
+      }
+    ],
+    "walkthrough": [
+      {
+        "title": "Frame and inspect",
+        "detail": "Name the actor and task, gather relevant evidence and walk both normal and failure states."
+      },
+      {
+        "title": "Recommend a concrete change",
+        "detail": "Choose the lenses that fit: cognition, accessibility, authority, recovery and visual craft."
+      },
+      {
+        "title": "Verify at the right level",
+        "detail": "Check keyboard and runtime behavior, then use affected-user tasks where the claim needs them."
+      }
+    ],
+    "use_when": [
+      "People cannot tell what happened or what to do next.",
+      "A workflow loses input or hides recovery after an error.",
+      "An agent interface makes approval, cancellation or completion unclear."
+    ],
+    "not_for": [
+      "An accessibility-conformance certificate based on a source scan.",
+      "Treating anecdotes as prevalence or a visual preference as measured usability."
+    ],
+    "quickstart_prompt": "Use UX Ergonomics to review this fictional batch-import failure flow. The analyst loses entered mappings after an error. Separate observation, inference and recommendation; propose recovery behavior and keyboard/task checks without claiming a measured improvement.",
+    "output_preview": "Fictional finding: failed import discards mappings\nObservation: inputs disappear after the error\nConsequence: task must restart from scratch\nChange: preserve mappings; explain retry and cancellation\nAcceptance: keyboard user can inspect and retry without re-entry\nEvidence gap: affected-user task observation pending",
+    "proof_summary": "Native bundle structure, references and portable installation are checked. No usability study or accessibility-conformance claim is established by those structural checks; each product needs validation on its actual tasks and surfaces.",
+    "next_step": "Bring one user task, an inspectable flow and the breakdown you want to understand.",
+    "example_note": "Fictional worked example. It illustrates the intended output; it is not a measured result or a real customer story.",
+    "install_notes": [
+      "Requires Git and Python 3.11+ for the repository installer. The portable method itself can be read by a compatible agent without a service or provider account.",
+      "The destination is a skills-parent folder. Use the discovery path supported by your agent; ~/.agents/skills is an example, not a universal host setting.",
+      "Keep the complete installed folder, references and license together. Identical reinstall is safe; conflicts are refused. A deliberate --replace keeps a dated backup."
+    ]
+  },
+  "repository_url": "https://github.com/michaeljabbour/amplifier-skill-ux-ergonomics"
 }

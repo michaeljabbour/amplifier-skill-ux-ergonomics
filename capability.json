@@ -175,7 +175,8 @@
     "docs/VALIDATION.md",
     "docs/NATIVE-README.md",
     "docs/NATIVE-INSTALL.md",
-    "docs/evaluations/2026-10-28/consolidation.json"
+    "docs/evaluations/2026-10-28/consolidation.json",
+    "docs/OPTIONAL-CRAFT-ADAPTERS.md"
   ],
   "evidence_summary": "This local candidate preserves the original source and evaluation assets. Packaging and native software checks are recorded separately from comparative usefulness. No outside-user outcome or renamed-method effectiveness claim is established.",
   "publication_status": "Installation and evidence scopes are documented below."

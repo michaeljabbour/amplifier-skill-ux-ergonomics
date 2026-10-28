@@ -23,6 +23,8 @@ Keep the complete `skills/ux-ergonomics` folder together. Installation copies on
 
 [Migration map](docs/MIGRATION.md) records the original source paths and current roles. Primary Git history, native engines, tests, examples, and evaluation assets remain in this checkout. [Native guide](docs/NATIVE-README.md) preserves the original project documentation; old install URLs and runtime claims there are historical and need current verification. [Validation](docs/VALIDATION.md) records actual checks and limits.
 
+[Retained visual references and native adapters](docs/OPTIONAL-CRAFT-ADAPTERS.md) maps the older Taste bundle's creative arsenal, dials, agents and recipes to their actual retained home. The credited references included here are a partial extraction; the native bundle and the authored Taste × Elegance method retain distinct roles.
+
 ## Build the local site
 
 ```sh

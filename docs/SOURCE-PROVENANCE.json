@@ -1,0 +1,41 @@
+[
+  {
+    "repo": "amplifier-bundle-ergonomics",
+    "commit": "8a6b9a0a5189b5572ea5d5c933f7956227a711fb",
+    "paths": [
+      "skills/human-agent-authority-map/SKILL.md",
+      "skills/ux-acceptance-criteria/SKILL.md",
+      "skills/task-analysis/SKILL.md",
+      "skills/ux-evidence-synthesis/SKILL.md",
+      "skills/accessibility-evaluation/SKILL.md",
+      "skills/cognitive-walkthrough/SKILL.md",
+      "skills/usability-study-design/SKILL.md",
+      "skills/ergonomics-verification/SKILL.md",
+      "context/knowledge/lifecycle-ergonomics.md",
+      "context/knowledge/source-policy.md",
+      "context/knowledge/adversarial-ergonomics.md"
+    ],
+    "license": "MIT License",
+    "role": "Primary history and engine retained; methods consolidated behind the canonical portable entry."
+  },
+  {
+    "repo": "amplifier-bundle-taste",
+    "commit": "4cf2f37465d1a93d3e22e653ee92fe078eb07280",
+    "paths": [
+      "LICENSE",
+      "context/ai-tells-design.md",
+      "context/output-discipline-research.md",
+      "scripts/check-tells.sh",
+      "skills/brutalist-taste.md",
+      "skills/design-context-generator.md",
+      "skills/design-taste.md",
+      "skills/gpt-taste.md",
+      "skills/minimalist-taste.md",
+      "skills/output-discipline.md",
+      "skills/redesign-existing-projects.md",
+      "skills/soft-editorial-taste.md"
+    ],
+    "license": "MIT License",
+    "role": "Secondary method/reference consolidation. Original source identity and history retained."
+  }
+]

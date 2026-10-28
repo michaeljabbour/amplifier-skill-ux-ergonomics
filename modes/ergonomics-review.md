@@ -26,9 +26,7 @@ mode:
       - "@ux-ergonomist:context/knowledge/cognitive-accessibility.md"
       - "@ux-ergonomist:context/knowledge/temporal-interaction.md"
     skills:
-      - "@ux-ergonomist:skills/cognitive-walkthrough"
-      - "@ux-ergonomist:skills/accessibility-evaluation"
-      - "@ux-ergonomist:skills/human-agent-authority-map"
+      - "@ux-ergonomist:skills/ux-ergonomics"
 ---
 
 ERGONOMICS REVIEW MODE: Diagnose causal breakdowns without jumping to preferred solutions.

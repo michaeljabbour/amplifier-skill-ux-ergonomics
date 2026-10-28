@@ -1,3 +1,5 @@
+> Preserved source method from `amplifier-bundle-ergonomics` at `8a6b9a0a5189b5572ea5d5c933f7956227a711fb`. Original examples and runtime claims are historical; the canonical entry point defines current scope.
+
 ---
 name: accessibility-evaluation
 description: Plan or perform a layered accessibility evaluation across inspectable source, runtime behavior, assistive technologies, cognitive accessibility, and affected-user task testing.

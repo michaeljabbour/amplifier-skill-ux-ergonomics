@@ -21,7 +21,7 @@ mode:
       - "@ux-ergonomist:context/knowledge/adversarial-ergonomics.md"
       - "@ux-ergonomist:context/knowledge/evaluation-playbook.md"
     skills:
-      - "@ux-ergonomist:skills/ergonomics-verification"
+      - "@ux-ergonomist:skills/ux-ergonomics"
 ---
 
 ERGONOMICS VERIFY MODE: Try to disprove the findings and recommendations before handoff.

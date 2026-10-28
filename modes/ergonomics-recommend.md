@@ -20,8 +20,7 @@ mode:
       - "@ux-ergonomist:context/workflow-orientation.md"
       - "@ux-ergonomist:context/knowledge/evaluation-playbook.md"
     skills:
-      - "@ux-ergonomist:skills/ux-acceptance-criteria"
-      - "@ux-ergonomist:skills/usability-study-design"
+      - "@ux-ergonomist:skills/ux-ergonomics"
 ---
 
 ERGONOMICS RECOMMEND MODE: Propose the smallest interventions that test the diagnosed mechanisms.

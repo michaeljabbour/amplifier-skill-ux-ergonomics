@@ -17,7 +17,7 @@ mode:
       - "@ux-ergonomist:context/workflow-orientation.md"
       - "@ux-ergonomist:context/knowledge/source-policy.md"
     skills:
-      - "@ux-ergonomist:skills/ux-evidence-synthesis"
+      - "@ux-ergonomist:skills/ux-ergonomics"
 ---
 
 ERGONOMICS RESEARCH MODE: Build the evidence base for the framed decision.

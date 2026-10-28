@@ -1,3 +1,5 @@
+> Preserved source method from `amplifier-bundle-ergonomics` at `8a6b9a0a5189b5572ea5d5c933f7956227a711fb`. Original examples and runtime claims are historical; the canonical entry point defines current scope.
+
 ---
 name: human-agent-authority-map
 description: Allocate decision and action authority between humans and agents according to consequence, reversibility, uncertainty, expertise, preference, and recovery capability.

@@ -1,3 +1,5 @@
+> Preserved source method from `amplifier-bundle-ergonomics` at `8a6b9a0a5189b5572ea5d5c933f7956227a711fb`. Original examples and runtime claims are historical; the canonical entry point defines current scope.
+
 ---
 name: ux-evidence-synthesis
 description: Turn mixed product data, research, standards, interviews, support evidence, and public anecdotes into a claim-level evidence map with explicit applicability and uncertainty.

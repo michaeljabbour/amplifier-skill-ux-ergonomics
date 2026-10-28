@@ -1,3 +1,5 @@
+> Preserved source method from `amplifier-bundle-ergonomics` at `8a6b9a0a5189b5572ea5d5c933f7956227a711fb`. Original examples and runtime claims are historical; the canonical entry point defines current scope.
+
 ---
 name: cognitive-walkthrough
 description: Evaluate whether a target user can discover, understand, execute, and learn each action in a task, particularly for unfamiliar or infrequent workflows.

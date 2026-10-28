@@ -1,3 +1,5 @@
+> Preserved source method from `amplifier-bundle-ergonomics` at `8a6b9a0a5189b5572ea5d5c933f7956227a711fb`. Original examples and runtime claims are historical; the canonical entry point defines current scope.
+
 ---
 name: usability-study-design
 description: Design the lightest valid usability study for a product decision, with explicit population, tasks, measures, analysis, stopping rule, and inference boundaries.

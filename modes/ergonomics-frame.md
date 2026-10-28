@@ -16,7 +16,7 @@ mode:
     context:
       - "@ux-ergonomist:context/workflow-orientation.md"
     skills:
-      - "@ux-ergonomist:skills/task-analysis"
+      - "@ux-ergonomist:skills/ux-ergonomics"
 ---
 
 ERGONOMICS FRAME MODE: Establish the decision frame before diagnosing or proposing changes.

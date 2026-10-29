@@ -231,5 +231,12 @@
       "Keep the complete installed folder, references and license together. Identical reinstall is safe; conflicts are refused. A deliberate --replace keeps a dated backup."
     ]
   },
-  "repository_url": "https://github.com/michaeljabbour/amplifier-skill-ux-ergonomics"
+  "repository_url": "https://github.com/michaeljabbour/amplifier-skill-ux-ergonomics",
+  "film": {
+    "file": "ux-ergonomics-film",
+    "seconds": 68,
+    "heading": "Forty fields. Then it's gone.",
+    "blurb": "In 68 seconds, Pat maps forty columns and loses them all to one failed import. UX Ergonomics rides the real route to the stop where it breaks, keeps the work, says what retry will do, gives a way out and checks it with only a keyboard. It will not call the fix better until real people try it. Captions are on the player; a transcript is below.",
+    "note": "Pat, the import and the form are a fictional example. The film shows how the skill behaves; it does not report results."
+  }
 }

@@ -2,6 +2,8 @@
 
 Make the next step easier to understand and do.
 
+Watch the [68-second film](https://michaeljabbour.github.io/amplifier-skill-ux-ergonomics/#film): forty mapped fields lost to one failed import, and the route the skill takes to fix the stop where people quit. The example in it is fictional.
+
 An evidence-led UX skill for workflows and human-agent interactions. Trace the real task, find where people can lose their way and turn findings into changes you can verify.
 
 [Explore the site](https://michaeljabbour.github.io/amplifier-skill-ux-ergonomics/) · [Read the method](skills/ux-ergonomics/SKILL.md) · [Install guide](docs/INSTALL.md)

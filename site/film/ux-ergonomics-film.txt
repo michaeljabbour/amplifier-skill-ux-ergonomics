@@ -1,0 +1,10 @@
+Forty fields. Twenty minutes. Perfectly mapped.
+Import failed. Everything’s gone.
+People don’t quit at the hard part. They quit when their work disappears.
+And no, a sparklier retry button won’t save it.
+UX Ergonomics rides the real route, right through the stop where it breaks.
+The fix: keep the mappings. Say what retry will do. Give a way out.
+Then test it with only a keyboard: Tab, Tab, Enter. Nothing typed twice.
+Is it better? Ask real people. Until then, it won’t say so.
+On screen: Don’t throw away their work.
+UX Ergonomics. Make the next step easier to understand and do.

@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-10-30 — Available film formats
+
+- Offer only film formats present in the repository. Preserve producer assets and support WebM-only playback/downloads without broken MP4 links; cover WebM-only, MP4-only, both and missing-media cases.
+
 ## 2026-10-28 — Film sound
 
 - Remix the film so the score plays through without skips and ends on its own final chord instead of restarting under the end card. Smoother ducking under the voice, sound effects kept below the narrator, and crossfaded joins in the 15-second cut.

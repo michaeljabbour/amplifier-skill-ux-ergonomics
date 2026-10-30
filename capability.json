@@ -231,12 +231,97 @@
       "Keep the complete installed folder, references and license together. Identical reinstall is safe; conflicts are refused. A deliberate --replace keeps a dated backup."
     ]
   },
-  "repository_url": "https://github.com/michaeljabbour/amplifier-skill-ux-ergonomics",
+  "repository_url": "https://github.com/michaeljabbour/amplifier-capability-ux-ergonomics",
+  "name": "amplifier-capability-ux-ergonomics",
+  "legacy_names": [
+    "amplifier-skill-ux-ergonomics",
+    "ux-ergonomics"
+  ],
+  "contract_version": "amplifier-capability/v1",
+  "version": null,
+  "version_basis": "No release version recorded; installer requires a full Git revision pin.",
+  "engine": "LLM",
+  "engine_components": {
+    "caller_method": "LLM"
+  },
+  "surfaces": [
+    "agent-skills",
+    "amplifier-bundle"
+  ],
+  "portable_method": {
+    "name": "ux-ergonomics",
+    "path": "skills/ux-ergonomics",
+    "include": [
+      "."
+    ],
+    "contract": "Agent Skills directory; caller applies the method; no independent execution loop is installed."
+  },
+  "interfaces": {
+    "portable": {
+      "input": "Caller task and explicitly authorized context",
+      "output": "Make the task easier to complete, and show what evidence would prove the change helped.",
+      "failure": "Report insufficient evidence, unsupported context or host limitation; never turn discovery into an execution claim."
+    },
+    "native": {
+      "distribution": null,
+      "entrypoints": {},
+      "docs": [
+        "docs/INSTALL.md",
+        "docs/MIGRATION.md",
+        "docs/VALIDATION.md",
+        "docs/NATIVE-README.md",
+        "docs/NATIVE-INSTALL.md",
+        "docs/evaluations/2026-10-28/consolidation.json",
+        "docs/OPTIONAL-CRAFT-ADAPTERS.md"
+      ],
+      "status": "Existing declared entrypoints preserved; runtime signatures, service access and installation tests remain separate evidence."
+    },
+    "host_adapters": {
+      "amplifier_bundle": "bundle.md",
+      "grants_autonomy": false
+    }
+  },
+  "permissions": {
+    "installation": {
+      "network": false,
+      "executes_capability_code": false,
+      "writes": [
+        "Selected discovery folders",
+        ".capability-state transaction backups"
+      ],
+      "grants_runtime_permissions": false
+    },
+    "runtime": {
+      "status": "Host/caller authorizes each operation; installation is not a tool allowlist or standing approval.",
+      "declared_boundaries": [
+        "Expert inspection is not observed-user evidence; anecdotes cannot establish prevalence.",
+        "Accessibility conformance needs adequate runtime/manual evidence at the stated scope.",
+        "Visual Taste guidance is an optional craft lens; it never outranks task evidence, usability, or user voice."
+      ]
+    },
+    "secret_names": {
+      "discovery_requires": [],
+      "native_runtime_inventory": "See native documentation; no credentials are bundled or inferred."
+    }
+  },
+  "dataflow": {
+    "installation": "Read pinned tracked portable source and copy locally with SHA-256 receipts. No source text is transmitted.",
+    "method": "Caller supplies authorized context; existing promise and boundaries govern output.",
+    "native_runtime": "Provider/network/storage flows are owned by native interfaces and host authorization; these files do not enable them."
+  },
+  "source_policy": {
+    "revision": "Explicit full40-character Git commit required at installation; never infer latest.",
+    "repository_rename": "Public identity may change; skill folder, imports, entrypoints, tool IDs and schemas remain stable.",
+    "research": ".research/market remains local and ignored; AGENTS governs refresh."
+  },
   "film": {
     "file": "ux-ergonomics-film",
     "seconds": 68,
     "heading": "Forty fields. Then it's gone.",
     "blurb": "In 68 seconds, Pat maps forty columns and loses them all to one failed import. UX Ergonomics rides the real route to the stop where it breaks, keeps the work, says what retry will do, gives a way out and checks it with only a keyboard. It will not call the fix better until real people try it. Captions are on the player; a transcript is below.",
     "note": "Pat, the import and the form are a fictional example. The film shows how the skill behaves; it does not report results."
-  }
+  },
+  "repository_aliases": [
+    "https://github.com/michaeljabbour/amplifier-skill-ux-ergonomics"
+  ]
 }
